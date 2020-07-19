@@ -1,0 +1,43 @@
+/*
+Copyright (C) 2018 simon
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+*/
+/* 
+    Created on : 14/08/2018, 7:54:35 PM
+    Author     : simon
+*/
+
+.myws_helpfile{
+    margin: auto;
+    width: 70%;
+    padding-bottom: 70px;
+    padding-top: 30px;
+    background-color: lightgrey;
+    padding-left: 25px;
+    min-width: 600px;
+    border: green 3px solid;
+    
+    
+}
+
+.myws_helpfile img{
+	padding: 30px;
+	
+}
+
+
+
+
